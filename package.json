@@ -15,5 +15,6 @@
 		"name": "Natalie Alibegashvili"
 	},
 	"description": "This is a description",
-	"keywords": ["freeCodeCamp","start nodeJS"]
+	"keywords": ["freeCodeCamp","start nodeJS"],
+	"license": "MIT"
 }
