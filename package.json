@@ -16,5 +16,6 @@
 	},
 	"description": "This is a description",
 	"keywords": ["freeCodeCamp","start nodeJS"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.0.0"
 }
