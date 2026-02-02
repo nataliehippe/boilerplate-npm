@@ -14,5 +14,6 @@
 	"author": {
 		"name": "Natalie Alibegashvili"
 	},
-	"description": "This is a description"
+	"description": "This is a description",
+	"keywords": ["freeCodeCamp","start nodeJS"]
 }
